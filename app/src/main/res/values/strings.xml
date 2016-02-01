@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Multikino!</string>
+    <string name="action_settings">Zmień kino</string>
+    <string-array name="cinema_array">
+        <item>Warszawa Złote Tarasy</item>
+        <item>Elbląg</item>
+        <item>Bydgoszcz</item>
+        <item>Gdańsk</item>
+        <item>Gdynia</item>
+        <item>Koszalin</item>
+        <item>Kraków</item>
+        <item>Poznań Malta</item>
+        <item>Poznań Multikino 51</item>
+        <item>Poznań Stary Browar</item>
+        <item>Rybnik</item>
+        <item>Sopot</item>
+        <item>Szczecin</item>
+        <item>Warszawa Targówek</item>
+        <item>Warszawa Wola Park</item>
+        <item>Wrocławek</item>
+        <item>Wrocław Arkady</item>
+        <item>Wrocław Pasaż Grunwaldzki</item>
+        <item>Warszawa Ursynów</item>
+        <item>Zabrze</item>
+        <item>Łódź Silver Screen</item>
+        <item>Rumia</item>
+        <item>Radom</item>
+        <item>Słupsk</item>
+        <item>Kielce</item>
+        <item>Zgorzelec</item>
+        <item>Tych</item>
+        <item>Czechowice Dziedzice</item>
+        <item>Lublin</item>
+        <item>Katowice</item>
+        <item>Olsztyn</item>
+        <item>Jaworzno</item>
+    </string-array>
+</resources>
